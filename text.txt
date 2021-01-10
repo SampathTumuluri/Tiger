@@ -2,3 +2,5 @@ new folder created in desktop
 cloned the Tiger repo into the folder
 now adding new file.txt in the Tiger repo
 going to commit the added file 
+commit done , trying to push the Tiger to origin master
+making the another commit
