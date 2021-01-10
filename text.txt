@@ -1,5 +1,5 @@
 1.new folder created in desktop
-2.cloned the Tiger repo into the folder
+2.cloned the tiger lion repo into the folder
 3.now adding new file.txt in the Tiger repo
 4.going to commit the added file 
 5.commit done , trying to push the Tiger repo to origin master
