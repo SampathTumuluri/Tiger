@@ -1,7 +1,7 @@
-new folder created in desktop
-cloned the Tiger repo into the folder
-now adding new file.txt in the Tiger repo
-going to commit the added file 
-commit done , trying to push the Tiger to origin master
-making the another commit
-pushed successfull to the origin main
+1.new folder created in desktop
+2.cloned the Tiger repo into the folder
+3.now adding new file.txt in the Tiger repo
+4.going to commit the added file 
+5.commit done , trying to push the Tiger repo to origin master
+6.making the another commit
+7.pushed successfull to the origin main
